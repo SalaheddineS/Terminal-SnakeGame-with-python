@@ -1,0 +1,4 @@
+You should open your cmd and install:
+
+pip install windows-curses
+pip install random2(maybe)
