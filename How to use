@@ -2,3 +2,6 @@ You should open your cmd and install:
 
 pip install windows-curses
 pip install random2(maybe)
+
+Then you could either open the cmd, put on full screen, and write the file's directory , and execute SnakeGame_by_SalaheddineMorchid.py if you want to play full screen
+or you could simply execute SnakeGame_by_SalaheddineMorchid.py from the directory
